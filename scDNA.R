@@ -9,6 +9,7 @@ sample.name =  "samp_1" # without Y chr
 save_folder = "samp_1_v1"
 wkdir = paste0("path/",save_folder,"/");dir.create(wkdir,recursive = T)
 setwd(wkdir)
+source("utils.R")
 
 datadir = paste0("/path_segmented_file/")
 datadir2 = paste0("/path_segmented_file/")

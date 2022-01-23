@@ -1,5 +1,5 @@
 #' Scripts to process scDNA data
-#' These snipetts were created with the help of the following contributors: Tapsi Kumar, Darlan Minussi, Yiyun lin, Yuheui Zhao from Navinlab.
+#' These snippets were created with the help of the following contributors: Tapsi Kumar, Darlan Minussi, Yiyun lin, Yuheui Zhao from Navinlab.
 
 # load directories ----
 # ****************** --------------------
